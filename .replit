@@ -1,0 +1,4 @@
+run = "./tty2web --permit-write --port 8080 --credential $LOGIN ./runner"
+
+[nix]
+channel = "stable-22_11"
