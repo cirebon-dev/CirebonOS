@@ -1,12 +1,14 @@
 ![ReplOS](replos.jpg)
 
-Run Debian desktop, Ubuntu etc on replit.
+CirebonOS (formerly ReplOS) is lightweight Cloud OS and designed to run on replit.
+
+With CirebonOS you can install and run Linux distro like Debian Desktop, Ubuntu etc with full root access on subsystem.
 
 ## Instruction
 
 1. create new repl and select import from github.
 
-2. enter url https://github.com/cirebon-dev/ReplOS
+2. enter url https://github.com/cirebon-dev/CirebonOS
 
 3. after repl created, open `secrets` tab then add key `LOGIN` and value `user:password`.
 
