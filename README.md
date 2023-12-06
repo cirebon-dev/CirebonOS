@@ -4,6 +4,8 @@ CirebonOS (formerly ReplOS) is lightweight Cloud OS and designed to run on repli
 
 With CirebonOS you can install and run Linux distro like Debian Desktop, Ubuntu etc with full root access on subsystem.
 
+you can try the playground (without login/create replit account, just hit Run button) [here](https://replit.com/@latihantik/CirebonOS).
+
 ## Instruction
 
 1. create new repl and select import from github.
