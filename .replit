@@ -1,4 +1,16 @@
-run = "./tty2web --permit-write --port 8080 --credential $LOGIN ./runner"
+run = "./tty2web --permit-write --port 5000 --credential $LOGIN ./runner"
 
 [nix]
 channel = "stable-22_11"
+
+[agent]
+expertMode = true
+
+[[ports]]
+localPort = 5000
+externalPort = 80
+
+[userenv]
+
+[userenv.shared]
+LOGIN = "guangrei:@anak_tkj"
