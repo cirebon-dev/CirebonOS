@@ -1,4 +1,4 @@
-![ReplOS](replos.jpg)
+![Screenshot](https://raw.githubusercontent.com/cirebon-dev/CirebonOS/refs/heads/main/screenshot.PNG)
 
 CirebonOS (formerly ReplOS) is lightweight Cloud OS and designed to run on replit.
 
