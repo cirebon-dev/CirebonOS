@@ -6,7 +6,7 @@ With CirebonOS you can install and run Linux distro like Debian Desktop, Redhat 
 
 ## Instruction
 
-1. create new repl and select import from github.
+1. create new repl with "+" button,  select Import an existing project and import from github.
 
 2. enter url https://github.com/cirebon-dev/CirebonOS
 
