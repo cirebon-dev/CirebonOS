@@ -10,13 +10,13 @@ With CirebonOS you can install and run Linux distro like Debian Desktop, Redhat 
 
 2. enter url https://github.com/cirebon-dev/CirebonOS
 
-3. Klik "play button".
+3. after repl created, open `secrets` tab then add key `LOGIN` and value `user:password`.
 
-4. login with username `guangrei` and password `@anak_tkj`.
+4. open `shell` tab then type command `./installer`
 
 ## more info
 
-- you can change the default password in the secret tabs.
+- Replace `user:password` with your desired username and password to access tty2web.
 
 - This may take a little longer the first time you run instance.
 
